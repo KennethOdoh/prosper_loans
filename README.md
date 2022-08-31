@@ -1,4 +1,4 @@
-# Audience Insight Anaalysis
+# Audience Insight Analysis
 ## by Kenneth Odoh
 
 
